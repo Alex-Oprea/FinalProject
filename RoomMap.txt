@@ -1,0 +1,310 @@
+1
+You arrive at the entrance of the hospital. It is pouring outside with lots of rain and thunder. You look through the glass door and the lobby looks trashed.
+false
+false
+false
+false
+2
+0
+0
+0
+2
+The whole room is trashed; debris and knocked-over furniture everywhere. Expired medicine and used needles litter the floor, but luckily your shoes will suffice!
+false
+false
+false
+true
+3
+6
+1
+4
+3
+There is a busted photocopier in the corner, so you can’t use it. Old manilla files and their documents are torn in pieces. There are bloody rags and torn pieces of business suits on the floor.
+false
+true
+false
+false
+0
+0
+2
+0
+4
+Empty trays and rotted food are everywhere. The stench is unbearable!
+false
+false
+false
+false
+0
+2
+0
+5
+5
+Seems like this kitchen is still in perfect condition; no trash or debris, everything still organized… its like someone has kept this place tidy.
+false
+false
+true
+false
+0
+4
+0
+0
+6
+Stairs that can take you between Floor 1 & 2.
+false
+false
+false
+false
+7
+0
+0
+2
+7
+There are a lot of dumbbells scattered across the floor. Seems like there is a Gymnasium on this floor nearby, otherwise this wouldn’t make sense for this stuff to be here. Some of the dumbbells are covered in blood.
+false
+false
+false
+false
+8
+6
+9
+10
+8
+There are some spare parts for the equipment and extra weights for bench press. Lots of dirty clothes in here… it probably smells worse than the kitchen area!
+false
+true
+false
+false
+0
+0
+7
+0
+9
+There is a computer terminal sitting on the desk in here. A bunch of still new keycards, batons, and 9mm handguns are laying on the desk as well, but you can’t use them.
+false
+false
+true
+false
+7
+0
+0
+0
+10
+Lots of exercise machines in here, only a few are still upright. Some corpses still lay on the machines as if they died still using them.
+false
+false
+false
+false
+13
+7
+11
+12
+11
+This place seems to be clean, but that’s likely because there’s running water in here to compensate! If only the other rooms had the same luxury!
+false
+false
+true
+false
+10
+0
+0
+0
+12
+Every locker is either still locked or busted open. Hardly anything worth taking… not unless you want towels soaked in sweat!
+false
+true
+false
+false
+0
+10
+0
+0
+13
+Stairs that can take you between Floor 2 & 3
+false
+false
+false
+false
+14
+0
+10
+0
+14
+there are several smaller office rooms that are connected to this room, however most of them appear to be locked in some way. You also see what looks like a meeting room to the east, but it can only be opened from the inside. Pens and books lay scattered across some of the cubical desks in the center of the room.
+false
+false
+false
+false
+15
+13
+17
+18
+15
+There are a lot of files in here, however most of them were burned up since a fire was blocking the entrance.
+false
+true
+false
+false
+16
+0
+14
+0
+16
+Lots of dust on the desk in here. Seems that someone left a personal locker in here, but I doubt theres anything useful in there so I won’t bother.
+false
+true
+false
+false
+0
+0
+15
+0
+17
+Everything inside, including the desk and books, have been dismantled.
+false
+false
+true
+false
+14
+0
+0
+0
+18
+For some reason, there is a lot of lab equipment strung about the room, even though it’s a meeting room. Now that you are inside this room, you can unlock the door that leads to the Offices area.
+false
+true
+false
+false
+20
+14
+19
+21
+19
+This room seems to be a filing room of some kind, still untouched by whatever has plagued this hospital. The files, which seem to be medical documents, are still neatly stacked and organized as if nothing happened. Still looks very nice.
+false
+false
+false
+false
+18
+0
+0
+0
+20
+The desk inside has been broken in half, and both pieces lay on the floor! What could’ve done this kind of damage, the Hulk?!
+false
+false
+true
+false
+0
+0
+18
+0
+21
+The view from here is hard to appreciate when the building you’re in is so dilapidated. Plus, the rain and thunder doesn’t help either!
+false
+true
+false
+false
+0
+18
+0
+22
+22
+Ladder that can take you between Floor 3 & 4.
+false
+false
+false
+false
+23
+21
+0
+0
+23
+There are a few plastic chairs surrounding a cheap plastic table. There’s a pack of playing cards on the table; must’ve been playing poker or something before the hospital became the way it is now. Looks like you can use a rope to rappel down to the 3rd floor outside balcony by tying it around the handlebars, but you should make sure you know the correct way to tie the knot.
+false
+false
+true
+false
+0
+22
+0
+24
+24
+Surrounded by apartment-like rooms, only a handful of the connected rooms seem to be accessible, as the others are boarded up. The central room itself has a few couches that are covered in blood and corpses.
+false
+false
+false
+false
+25
+23
+26
+27
+25
+This must’ve been a security employee’s personal quarters, because there is a disposable utility key laying on the lanyard. He’s also got some instruction booklets on security in many different specific topics and whatnot. I can hardly understand half of it!
+false
+false
+true
+false
+0
+0
+24
+0
+26
+This looks like one of the doctor or nurse’s personal rooms, as theres a health potion laying on the floor in the corner, and a list of all of their patients and their medications.
+false
+true
+false
+false
+24
+0
+0
+0
+27
+Stairs that can take you between Floor 4 & 5
+false
+false
+false
+false
+0
+24
+28
+0
+28
+Again, this room seems to be oddly clean considering the rest of the building. You can see some machines in the doors to the other rooms.
+false
+false
+false
+false
+0
+29
+30
+0
+29
+There are a bunch of those x-ray pictures of peoples’ body parts… some of which seem to be mutated in some of the pictures. Luckily, so long as the power is still on, this X-ray still functions.
+false
+false
+true
+false
+0
+0
+31
+28
+30
+Your missing friend is unconscious on the operating table. There are several vials of medicines laid out on the table next to him. Also, lots of scissors, scalpels, syringes, and needles laid out nicely on the tables too. Surprisingly there aren’t any face masks in here. Guess I’m dying of the “Kung-Flu”!
+false
+true
+false
+false
+28
+0
+0
+0
+31
+This elevator goes straight to the roof only. Luckily, the evil scientist’s automatic robot helicopter is ready to pick us up!
+false
+false
+false
+false
+29
+0
+0
+0

@@ -1,0 +1,311 @@
+1
+-------------------------------------
+|              ENTRANCE             |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     LOBBY    |
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+2
+-------------------------------------
+|            1. LOBBY               |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->  BACK OFFICE |
+|East  -------------->     STAIRS   |
+|South -------------->     ENTRANCE |
+|West  -------------->     KITCHEN  |
+-------------------------------------
+3
+-------------------------------------
+|             BACK OFFICE           |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     DEAD END |
+|South -------------->     LOBBY    |
+|West  -------------->     DEAD END |
+-------------------------------------
+4
+-------------------------------------
+|               KITCHEN             |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     LOBBY    |
+|South -------------->     DEAD END |
+|West  ----------> BACKROOM KITCHEN |
+-------------------------------------
+5
+-------------------------------------
+|          BACKROOM KITCHEN         |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     KITCHEN  |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+6
+-------------------------------------
+|               STAIRS              |
+-------------------------------------
+|These directions will take you to: |
+|North --------> SECOND FLOOR LOBBY |
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  --------> FIRST FLOOR LOBBY  |
+-------------------------------------
+7
+-------------------------------------
+|             2. LOBBY              |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     CLOSET   |
+|East  -------------->     STAIRS   |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+8
+-------------------------------------
+|              CLOSET               |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     DEAD END |
+|South -------------->     LOBBY    |
+|West  -------------->     DEAD END |
+-------------------------------------
+9
+-------------------------------------
+|           SECURITY ROOM           |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     LOBBY    |
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+10
+-------------------------------------
+|                GYM                |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     STAIRS   |
+|East  -------------->     LOBBY    |
+|South -------------->     SHOWERS  |
+|West  -------------->     LOCKERS  |
+-------------------------------------
+11
+-------------------------------------
+|               SHOWERS             |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     GYM      |
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+12
+-------------------------------------
+|               LOCKERS             |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     GYM      |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+13
+-------------------------------------
+|               STAIRS              |
+-------------------------------------
+|These directions will take you to: |
+|North -----------> F3. OFFICE LOBBY|
+|East  -------------->     DEAD END |
+|South -------------->     F2.GYM   |
+|West  -------------->     DEAD END |
+-------------------------------------
+14
+-------------------------------------
+|            OFFICE LOBBY           |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->   OFFICE 101 |
+|East  -------------->     STAIRS   |
+|South -------------->   OFFICE 104 |
+|West  --------------> MEETING ROOM |
+-------------------------------------
+15
+-------------------------------------
+|             OFFICE 101            |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->   OFFICE 105 |
+|East  -------------->     DEAD END |
+|South --------------> OFFICE LOBBY |
+|West  -------------->     DEAD END |
+-------------------------------------
+16
+-------------------------------------
+|             OFFICE 105            |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     DEAD END |
+|South -------------->   OFFICE 105 |
+|West  -------------->     DEAD END |
+-------------------------------------
+17
+-------------------------------------
+|             OFFICE 104            |
+-------------------------------------
+|These directions will take you to: |
+|North --------------> OFFICE LOBBY |
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+18
+-------------------------------------
+|            MEETING ROOM           |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->   OFFICE 107 |
+|East  -------------->     DEAD END |
+|South -------------->   OFFICE 108 |
+|West  -------------->     BALCONY  |
+-------------------------------------
+19
+-------------------------------------
+|            OFFICE 108             |
+-------------------------------------
+|These directions will take you to: |
+|North --------------> MEETING ROOM |
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+20
+-------------------------------------
+|            OFFICE 107             |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     DEAD END |
+|South --------------> MEETING ROOM |
+|West  -------------->     DEAD END |
+-------------------------------------
+21
+-------------------------------------
+|              BALCONY              |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  --------------> MEETING ROOM |
+|South -------------->     DEAD END |
+|West  --------> FIRE ESCAPE LADDER |
+-------------------------------------
+22
+-------------------------------------
+|         FIRE ESCAPE LADDER        |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     F4.PATIO |
+|East  -------------->  F3.BALCONY  |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+23
+-------------------------------------
+|               PATIO               |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  --------> FIRE ESCAPE LADDER |
+|South -------------->     DEAD END |
+|West  ---------> RESIDENTIAL FOYER |
+-------------------------------------
+24
+-------------------------------------
+|          RESIDENTIAL FOYER        |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     SUITE 102|
+|East  -------------->     PATIO    |
+|South -------------->     SUITE 103|
+|West  -------------->     STAIRS   |
+-------------------------------------
+25
+-------------------------------------
+|              SUITE 102            |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     DEAD END |
+|South ----------> RESIDENTIAL FOYER|
+|West  -------------->     DEAD END |
+-------------------------------------
+26
+-------------------------------------
+|              SUITE 103            |
+-------------------------------------
+|These directions will take you to: |
+|North ----------> RESIDENTIAL FOYER|
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+27
+-------------------------------------
+|                STAIRS             |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -----> F4. RESIDENTIAL FOYER |
+|South ---------> F5. SURGEON LOBBY |
+|West  -------------->     DEAD END |
+-------------------------------------
+28
+-------------------------------------
+|           SURGEON LOBBY           |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->   X-RAY ROOM |
+|South ------------> OPERATION ROOM |
+|West  -------------->       STAIRS |
+-------------------------------------
+29
+-------------------------------------
+|             X-RAY ROOM            |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->     DEAD END |
+|East  -------------->     DEAD END |
+|South -----------> SECRET ELEVATOR |
+|West  -------------> SURGEON LOBBY |
+-------------------------------------
+30
+-------------------------------------
+|           OPERATION ROOM          |
+-------------------------------------
+|These directions will take you to: |
+|North -------------> SURGEON LOBBY |
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+31
+-------------------------------------
+|           SECRET ELEVATOR         |
+-------------------------------------
+|These directions will take you to: |
+|North -------------->   X-RAY ROOM |
+|East  -------------->     DEAD END |
+|South -------------->     DEAD END |
+|West  -------------->     DEAD END |
+-------------------------------------
+

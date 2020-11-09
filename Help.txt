@@ -1,0 +1,15 @@
+-----------------------------------------------------------
+|                      EXPERIMENT 82                      |
+-----------------------------------------------------------
+-----------------------------------------------------------
+|                      COMMANDS MENU                      |
+-----------------------------------------------------------
+|You can do the following commands:                       |
+|Type "examine room" to examine the room                  |
+|Type "examine 'item name'" to examine the specific item  |
+|Type "pickup 'item name'" to pickup the specific item    |
+|Type "examine inventory" to examine the player inventory |
+|Type "drop 'item name'" to drop the specific item        |
+|Type "N", "S", "E", or "W" to choose your next direction |
+|Type "quit" to quit the game                             |
+-----------------------------------------------------------
