@@ -1,5 +1,60 @@
 2
-Master
-It is the Master
+Atchen Sambra
+Rat covered in blood and scars with sharp, chipped, teeth and nails
+5
+5
+4
+Atchen Sambra
+Rat covered in blood and scars with sharp, chipped, teeth and nails
+5
+5
+6
+Izzen Quavae
+Bat that can fly and bite the player
+10
 8
-2
+7
+Yngak
+Scorpion that can sink its stinging tail into the player
+12
+10
+10
+Yngak
+Scorpion that can sink its stinging tail into the player
+12
+10
+12
+Ghaunde Xiltel
+Slithery snake
+15
+10
+16
+Szaree Yaunyn
+Angry, hostile monkey that can pounce the player
+18
+12
+24
+Sojar Cormra
+Territorial wolf with snow-colored fur, can bite player
+20
+12
+25
+Sojar Cormra
+Territorial wolf with snow-colored fur, can bite player
+20
+12
+26
+Nergirsu
+Skinny, lanky hyena scavenger with blood-shot eyes, can maul player
+24
+15
+28
+Nergirsu
+Skinny, lanky hyena scavenger with blood-shot eyes, can maul player
+24
+15
+30
+Azol
+Evil Scientist that has defiled this entire area.
+40
+18

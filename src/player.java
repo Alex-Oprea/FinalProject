@@ -2,6 +2,9 @@ import java.util.ArrayList;
 
 public class player
 {
+
+	int playerHp = 100;
+	int playerAttack = 20;
 	public static final String Item = null;
 	private static int roomId;
 
@@ -10,6 +13,8 @@ public class player
 	Item item = new Item();
 
 	help help = new help();
+
+	Monster monster = new Monster();
 
 	navigation navigation = new navigation();
 

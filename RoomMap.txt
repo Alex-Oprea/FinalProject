@@ -33,7 +33,7 @@ Empty trays and rotted food are everywhere. The stench is unbearable!
 false
 false
 false
-false
+true
 0
 2
 0
@@ -53,7 +53,7 @@ Stairs that can take you between Floor 1 & 2.
 false
 false
 false
-false
+true
 7
 0
 0
@@ -63,7 +63,7 @@ There are a lot of dumbbells scattered across the floor. Seems like there is a G
 false
 false
 false
-false
+true
 8
 6
 9
@@ -93,7 +93,7 @@ Lots of exercise machines in here, only a few are still upright. Some corpses st
 false
 false
 false
-false
+true
 13
 7
 11
@@ -113,7 +113,7 @@ Every locker is either still locked or busted open. Hardly anything worth taking
 false
 true
 false
-false
+true
 0
 10
 0
@@ -153,7 +153,7 @@ Lots of dust on the desk in here. Seems that someone left a personal locker in h
 false
 true
 false
-false
+true
 0
 0
 15
@@ -233,7 +233,7 @@ Surrounded by apartment-like rooms, only a handful of the connected rooms seem t
 false
 false
 false
-false
+true
 25
 23
 26
@@ -243,7 +243,7 @@ This must’ve been a security employee’s personal quarters, because there is 
 false
 false
 true
-false
+true
 0
 0
 24
@@ -253,7 +253,7 @@ This looks like one of the doctor or nurse’s personal rooms, as theres a healt
 false
 true
 false
-false
+true
 24
 0
 0
@@ -273,7 +273,7 @@ Again, this room seems to be oddly clean considering the rest of the building. Y
 false
 false
 false
-false
+true
 0
 29
 30
@@ -293,7 +293,7 @@ Your missing friend is unconscious on the operating table. There are several via
 false
 true
 false
-false
+true
 28
 0
 0

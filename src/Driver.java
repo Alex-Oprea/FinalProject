@@ -7,7 +7,9 @@ public class Driver
 	{
 
 		player player = new player();
-		int playerHP = 10;
+		//int playerHP = 10;
+		//int playerAttk = 20;
+		boolean hasPotion = false;
 		// open text file
 		File roomFile = new File("RoomMap.txt");
 		// open a Scanner to read data from File
@@ -86,7 +88,7 @@ public class Driver
 			Puzzle.addPuzzle(puzzle);
 		}
 
-		/*File monsterFile = new File("Monsters.txt");
+		File monsterFile = new File("Monsters.txt");
 
 		Scanner monsterReader = null;
 		try
@@ -106,7 +108,7 @@ public class Driver
 
 			Monster monster = new Monster(monsterLocation, monsterName, monsterDesc, monsterHp, monsterAttk);
 			Monster.addMonster(monster);
-		} */
+		}
 
 		File helpFile = new File("Help.txt");
 
@@ -176,21 +178,32 @@ public class Driver
 					}
 				}
 			}
+
+
+			System.out.println("You are currently in Room #" + Map.getRoomItems().get(roomId).getRoomNum());
+			player.navigation.getNavigation(roomId);
+
 			while (Map.getRoomItems().get(roomId).hasMonster())
 			{
 				for(int i = 0; i < Monster.getMonsterItems().size(); i++)
 				{
 					if (Map.getRoomItems().get(roomId).getRoomNum().equals(Monster.getMonsterItems().get(i).getMonsterLocation()))
 					{
-						System.out.println(Monster.getMonsterItems().get(i).getMonsterDesc());
+						System.out.println("There is a Monster in the room! Use the command 'fight' to interact with it.");
+						System.out.println("But before you do that here are some helpful stats!: ");
+						System.out.println("Name: " +Monster.getMonsterItems().get(i).getMonsterName());
+						System.out.println("Description: " +Monster.getMonsterItems().get(i).getMonsterDesc());
+						System.out.println("Health Points: " + Monster.getMonsterItems().get(i).getMonsterHp());
+						System.out.println("Attack Power: " + Monster.getMonsterItems().get(i).getMonsterAttk());
 					}
 				}break;
 			}
 
-			System.out.println("You are currently in Room #" + Map.getRoomItems().get(roomId).getRoomNum());
-			player.navigation.getNavigation(roomId);
-
 			String input = keyboard.next();
+			if(input.equalsIgnoreCase("fight"))
+			{
+				player.monster.fightMonster();
+			}
 			if (input.equalsIgnoreCase("c"))
 			{
 				player.help.askHelp();

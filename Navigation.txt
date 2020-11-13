@@ -65,8 +65,8 @@
 |These directions will take you to: |
 |North -------------->     CLOSET   |
 |East  -------------->     STAIRS   |
-|South -------------->     DEAD END |
-|West  -------------->     DEAD END |
+|South -------------> SECURITY ROOM |
+|West  -------------->     GYM      |
 -------------------------------------
 8
 -------------------------------------
