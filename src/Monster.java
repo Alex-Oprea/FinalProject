@@ -126,7 +126,7 @@ public class Monster {
                     System.out.println("The monster has " +monstHp + " health left.");
                 }else if (input.equalsIgnoreCase("run"))
                 {
-                    break;
+                    return;
                 }
                 if (playerHp <= 0) {
                     System.out.println("You have died.");
