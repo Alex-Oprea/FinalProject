@@ -173,12 +173,24 @@ public class Driver
 							.equals(Puzzle.getPuzzleItems().get(i).getPuzzleLocation()))
 					{
 						System.out.println(Puzzle.getPuzzleItems().get(i).getQuestion());
+						System.out.println("To answer please type the response that is next to the number!");
+						System.out.println("Or you can skip by typing 'skip'.");
 						String input = keyboard.next();
 						player.puzzle.solvePuzzle(input);
 					}
 				}
 			}
 
+			/*while(Map.getRoomItems().get(roomId).hasItem())
+			{
+				for (int i = 0; i < Item.getItemItems().size(); i++)
+				{
+					if (Map.getRoomItems().get(roomId).getRoomNum().equals(Item.getItemItems().get(i).getItemLocation()))
+					{
+						System.out.println("There is an item named: " +Item.getItemItems().get(i).getItemName());
+					}
+				}
+			}*/
 
 			System.out.println("You are currently in Room #" + Map.getRoomItems().get(roomId).getRoomNum());
 			player.navigation.getNavigation(roomId);
@@ -199,6 +211,7 @@ public class Driver
 				}break;
 			}
 
+
 			String input = keyboard.next();
 			if(input.equalsIgnoreCase("fight"))
 			{
@@ -212,7 +225,7 @@ public class Driver
 				String input2 = keyboard.next();
 				if (input2.equalsIgnoreCase("room"))
 				{
-					player.map.examineRoom(input2);
+					player.map.examineRoom(input);
 				} else if (input2.equalsIgnoreCase("inventory"))
 				{
 					player.examineInventory(input2);
@@ -228,7 +241,16 @@ public class Driver
 			{
 				String input2 = keyboard.next();
 				player.item.drop(input2);
-			} else if (input.equalsIgnoreCase("n"))
+			}else if (input.equalsIgnoreCase("equip"))
+			{
+				String input2 = keyboard.next();
+				player.item.equip(input2);
+			}else if (input.equalsIgnoreCase("unequip"))
+			{
+				String input2 = keyboard.next();
+				player.item.unEquip(input2);
+			}
+			else if (input.equalsIgnoreCase("n"))
 			{
 				String direction = Map.getRoomItems().get(roomId).getNorth();
 

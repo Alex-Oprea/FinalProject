@@ -1,27 +1,27 @@
-Utility Key
+UtilityKey
 This key will open doors throughout the game
 3
-Ice Block
+IceBlock
 Used In X-ray puzzle
 8
 Rope
 Used for Rope puzzle
 12
-Fire Extinguisher
+FireExtinguisher
 Will put out fires that appear around orange doors
 15
-Health Potion
+HealthPotion
 Restore 50 HP
 16
-Fire Axe 
+FireAxe
 Opens red colored doors throughout the game
 18
-Note (Med.C)
+NoteC
 “This medicine contains antibodies to Melatonin and a small amount of pain-killers to help alleviate side- effects of my knock-out drug. Reserve for when I need to wake up a human test subject for experimentation purposes”
 21
-Note(Story) 
+NoteStory
 “I, Dr. Azol, have setup shop in this abandoned hospital to conduct experiments on stray animals. These monsters will help me pursue my research into the next stage of human evolution! I have just recently captured a human test subject, but I cannot experiment on him
 26
-Big Potion
+BigPotion
 Restore 100 HP
 30

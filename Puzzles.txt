@@ -1,32 +1,32 @@
 5
-This is the Generator Puzzle. There are 3 switches, colored Red, Yellow, and Blue respectively. There is also a pamphlet that says “INSTRUCTIONS” with the colors Green, Orange, and Purple in that order. It appears that you must select two of the three switches at once. Options available: 1. Red & Blue 2. Yellow & Blue 3. Yellow & Red
-Red & Blue, Red & Yellow
+This is the Generator Puzzle. There are 3 switches, colored Red, Yellow, and Blue respectively. There is also a pamphlet that says “INSTRUCTIONS” with the colors Green, Orange, and Purple in that order. It appears that you must select two of the three switches at once. Options available: 1. Red 2. Blue 3. Yellow
+red
 3
 9
 There is a safe that requires a combination to unlock. You will have to find the combination in the building to unlock the safe. *Generator Puzzle must be completed before attempting* Options: 1. Left 2. Right
-Left Right Right Left Left
+small
 3
 11
-There are 3 pieces of cooking equipment here: some pots and pans, a sink, and a stove. There are also some mixing ingredients to use. I just need the recipe to cook a big potion *Generator Puzzle must be completed before attempting* Options: Pots (Stage 1): 1. Small 2. Medium 3. Large Water (milliliters) (Stage 2): 1. 2 2. 5 3. 7 Cook (minutes) (Stage 3): 1. 5 2. 10 3. 20
-Medium,5,20
+There are 3 pieces of cooking equipment here: some pots and pans, a sink, and a stove. There are also some mixing ingredients to use. I just need the recipe to cook a big potion *Generator Puzzle must be completed before attempting* Options: Pots (Stage 1): 1. Small 2. Medium 3. Large
+large
 3
 17
 The computer terminal controls the case to the fire extinguisher. Looks like there is a three digit number, and the only digits I can enter are “5”, “6”, and “7”. If you can guess the right combination of these digits, you’ll receive the fire extinguisher. *Generator Puzzle must be completed before attempting* Options: 1. “5” 2. “6” 3. “7”
-666
+six
 3
 20
 There appears to be a mannequin standing under one of the shower heads. Its appears in a way that looks like it is shivering from cold temperature. You can turn the knob of the shower head Options: 1. Cold 2. Room 3. Warm 
-Warm
+warm
 3
 23
 You need to get down to the Outside Balcony on the floor below, but you have to make sure you choose the right knot to tie it in or else you will take damage Options: 1. Hitch 2. Bend 3. Standing 4. Bowline 5. Square
-Bowline
+bowline
 3
 25
-Your lost friend lays unconscious on the operating table. There is a note that mentions that he can be revived if the correct medicine is chosen. All 4 options are in the storage room next to you, but only 1 of them will revive your friend. Options: 1. Med. A 2. Med. B 3. Med. C 4. Med. D
-Med. C
+Your lost friend lays unconscious on the operating table. There is a note that mentions that he can be revived if the correct medicine is chosen. All 4 options are in the storage room next to you, but only 1 of them will revive your friend. Options: 1. MedA 2. MedB 3. MedC 4. MedD
+medc
 3
 29 
 This X-ray machine can be used to scan a block of ice containing a keycard inside of it. You’ll have to place the block of ice on the table, rotate it, then run the machine to scan it. Options (side of block): 1. Up 2. Left 3. Right 4. Down 5. Back 6. Front
-Back
+back
 3

@@ -10,6 +10,8 @@
 |Type "pickup 'item name'" to pickup the specific item    |
 |Type "examine inventory" to examine the player inventory |
 |Type "drop 'item name'" to drop the specific item        |
+|Type "Equip 'item name" to equip the specific item       |
+|Type "UnEquip 'item name'" to unequip the specific item  |
 |Type "N", "S", "E", or "W" to choose your next direction |
 |Type "quit" to quit the game                             |
 -----------------------------------------------------------

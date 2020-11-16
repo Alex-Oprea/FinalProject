@@ -27,7 +27,7 @@ public class Map
 			int location = Integer.parseInt(direction) - 1;
 			if (roomItems.get(location).isVisited())
 			{
-				System.out.println("This room looks familliar...");
+				System.out.println("This room looks familiar...");
 			}
 			if (direction.equals(roomItems.get(location).getRoomNum()))
 			{
@@ -39,8 +39,6 @@ public class Map
 
 	public void examineRoom(String item)
 	{
-		if (item.equalsIgnoreCase("room"))
-		{
 			System.out.println("You are in the: " + Map.getRoomItems().get(player.getPlayerLocation()).getDesc());
 			if (Map.getRoomItems().get(player.getPlayerLocation()).hasItem())
 			{
@@ -61,6 +59,6 @@ public class Map
 			{
 				System.out.println("This room is empty.");
 			}
-		}
+
 	}
 }

@@ -10,10 +10,6 @@ public class Item
 
 	private int count;
 
-	public Item(String itemName2, String itemDesc2, String itemLocation2)
-	{
-
-	}
 
 	public Item()
 	{
@@ -21,7 +17,7 @@ public class Item
 
 	}
 
-	public void Items(String itemName, String itemDesc, String itemLocation)
+	public Item(String itemName, String itemDesc, String itemLocation)
 	{
 
 		this.itemName = itemName;
@@ -165,6 +161,57 @@ public class Item
 						}
 					}
 				}
+			}
+		}
+	}
+
+	public void equip(String item)
+	{
+		for (int i = 0; i < player.getInventory().size(); i++)
+		{
+			if (item.equalsIgnoreCase("UtilityKey"))
+			{
+				System.out.println("You have added the Utility Key to your keychain...");
+				System.out.println("...you can now open any door in the game!");
+			} else if (item.equalsIgnoreCase("IceBlock"))
+			{
+				System.out.println("You have equipped the Ice Block...");
+				System.out.println("...you can now skip the X-Ray puzzle!");
+			}else if (item.equalsIgnoreCase("Rope"))
+			{
+				System.out.println("You have equipped the Rope... ");
+				System.out.println("...you can now do the rope puzzle!");
+			}else if(item.equalsIgnoreCase("FireAxe"))
+			{
+				System.out.println("You have equipped the Fire Axe...");
+				System.out.println("...you feel more powerful and you can open orange doors!");
+			} else
+			{
+				System.out.println("You have not selected an valid item in you inventory to equip");
+			}
+		}
+	}
+
+	public void unEquip(String item)
+	{
+		for (int i = 0; i < player.getInventory().size(); i++)
+		{
+			if (item.equalsIgnoreCase("UtilityKey"))
+			{
+				System.out.println("You have removed the Utility Key from your keychain...");
+				System.out.println("...you can no longer open all doors in the game!");
+			}else if (item.equalsIgnoreCase("IceBlock"))
+			{
+				System.out.println("You have unequipped the Ice Block...");
+				System.out.println("...you can no longer skip the X-Ray Puzzle!");
+			}else if (item.equalsIgnoreCase("Rop"))
+			{
+				System.out.println("You have unequipped the Rope...");
+				System.out.println("...you can no longer do the Rope Puzzle!");
+			}else if (item.equalsIgnoreCase("FireAxe"))
+			{
+				System.out.println("You have unequipped the Fire Axe...");
+				System.out.println("...you feel less powerful and can no longer open orange doors!");
 			}
 		}
 	}

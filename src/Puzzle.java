@@ -89,7 +89,15 @@ public class Puzzle
 				System.out.println("You solved the puzzle correctly!");
 				removePuzzle(getPuzzleItems().get(i));
 				Map.getRoomItems().get(player.getPlayerLocation()).setPuzzle(false);
-			} else
+				return;
+			}else if (answer.equalsIgnoreCase("skip"))
+			{
+				System.out.println("You have chosen to skip this puzzle...");
+				System.out.println("...any useful items or player buffs are forfeited");
+				removePuzzle(getPuzzleItems().get(i));
+				Map.getRoomItems().get(player.getPlayerLocation()).setPuzzle(false);
+			}
+			else
 			{
 				attempts--;
 				String attempted = Integer.toString(attempts);
@@ -98,7 +106,7 @@ public class Puzzle
 				{
 					System.out.println("The answer you provided is wrong, you still have " + attempts
 							+ " more attempt(s). Try one more time");
-				} else
+				} else if (attempts == 0)
 				{
 					System.out.println("Failed to solve");
 					removePuzzle(getPuzzleItems().get(i));
